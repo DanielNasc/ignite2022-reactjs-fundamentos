@@ -47,3 +47,8 @@ São exportados de dentro de arquivos com a extensão `.jsx` ou `.tsx`.
     ```jsx
     import { Button } from './Button';
     ```
+
+## Scoped CSS
+
+Isolar CSS de componentes diferentes em escopos separados, para que um não afete as estilizações de outros. 
+
