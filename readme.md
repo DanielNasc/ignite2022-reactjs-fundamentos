@@ -52,3 +52,16 @@ São exportados de dentro de arquivos com a extensão `.jsx` ou `.tsx`.
 
 Isolar CSS de componentes diferentes em escopos separados, para que um não afete as estilizações de outros. 
 
+
+## Programação Imperativa
+
+O que deve ser feito passo a passo.
+
+## Programação Declarativa
+
+Quais as condições que devem ser satisfeitas.
+
+
+## Imutabilidade
+
+As variáveis não devem ser alteradas diretamente. Nós criamos um novo valor (novo espaço de memória).
